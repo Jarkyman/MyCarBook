@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local notes / exports
+*.zip
+*.pdf
+
+# Keep photos local unless you intentionally add them
+*.heic
+*.HEIC
